@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Let me go ahead and introduce myself! I'm a digital designer who words in the Graphci Design and Front-End Development Space. I'm five years into being a Graphic Designers and a year into being a Front-End Developer.
+Let me go ahead and introduce myself! I'm a digital designer who words in the Graphic Design and Front-End Development Spaces. I'm five years into being a Graphic Designer and a year into being a Front-End Developer.
 
 - 🔭 I'm currently working on a personal project that doesn't exactly have a name yet.
 - 🌱 I'm currently learning C.
